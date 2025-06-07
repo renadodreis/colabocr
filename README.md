@@ -23,8 +23,8 @@ Run the script in Google Colab:
 
 ## Installing Dependencies
 
-If you prefer to install all requirements manually before running the
-pipeline, execute the helper script:
+If you prefer to install all system and Python requirements manually
+before running the pipeline, execute the helper script:
 
 ```bash
 !bash install_dependencies.sh

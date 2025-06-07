@@ -10,4 +10,4 @@ apt-get install -y \
 
 # Python dependencies used by colab_pipeline.py
 pip install -U \
-    docling[complete] paddleocr pdf2image img2pdf gradio
+    docling[complete] paddleocr pdf2image Pillow img2pdf gradio
