@@ -21,5 +21,14 @@ Run the script in Google Colab:
 !python colab_pipeline.py
 ```
 
+## Installing Dependencies
+
+If you prefer to install all requirements manually before running the
+pipeline, execute the helper script:
+
+```bash
+!bash install_dependencies.sh
+```
+
 Create your own workflow or interface (e.g. with Gradio) using the helper
 functions defined in `colab_pipeline.py`.
